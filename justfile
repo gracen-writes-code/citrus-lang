@@ -3,3 +3,6 @@ default:
 
 purge:
     cargo clean
+
+test:
+    cargo run

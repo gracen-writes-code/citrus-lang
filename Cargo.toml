@@ -6,6 +6,9 @@ edition = "2021"
 description = "A Rusty scripting language designed to be used for simple utilities."
 license = "MIT"
 
+homepage = "https://gracen.dev/a/citrus-lang"
+repository = "https://github.com/gracen-writes-code/citrus-lang"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
