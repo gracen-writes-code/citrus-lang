@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "citrus"
+name = "citrus-lang"
 version = "0.1.0-prealpha"

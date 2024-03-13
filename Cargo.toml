@@ -1,5 +1,5 @@
 [package]
-name = "citrus"
+name = "citrus-lang"
 version = "0.1.0-prealpha"
 edition = "2021"
 
